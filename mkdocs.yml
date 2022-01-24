@@ -1,0 +1,19 @@
+site_name: 编程笔记
+site_author: bitcqs
+site_url: 'http://www.bitcqs.com'
+site_description: 开发记录 手稿笔记
+
+dev_addr: '0.0.0.0:8080'
+
+theme:
+        name: material
+        language: zh
+        palette:
+                primary: 'Blue'
+                accent: 'Teal'
+        feature:
+                tabs: false
+extra:
+        search:
+        # jp 可中文搜索
+             language: 'jp'
