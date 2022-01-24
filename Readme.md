@@ -1,3 +1,2 @@
 # Bitcqs.com
-# fist update
 
